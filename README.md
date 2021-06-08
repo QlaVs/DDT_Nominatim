@@ -3,6 +3,7 @@
 DDT публичного API геокодинга  
 Тестирование прямого и обратного геокодирования  
 https://nominatim.openstreetmap.org  
+API Docs: https://nominatim.org/release-docs/develop/api/Overview/  
   
 :small_blue_diamond: Main: Test_ddt.py  
 :small_blue_diamond: Присутствуют готовые списки (json файлы)
