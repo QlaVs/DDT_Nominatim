@@ -4,7 +4,7 @@ DDT публичного API геокодинга
 Тестирование прямого и обратного геокодирования  
 https://nominatim.openstreetmap.org  
   
-:small_blue_diamond: Запускать Test_ddt.py  
+:small_blue_diamond: Main: Test_ddt.py  
 ____
 ### Main_data.py  
 Создаёт список мест по случайным координатам (всего 100)  
