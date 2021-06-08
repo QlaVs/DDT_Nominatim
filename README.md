@@ -5,6 +5,7 @@ DDT публичного API геокодинга
 https://nominatim.openstreetmap.org  
   
 :small_blue_diamond: Main: Test_ddt.py  
+:small_blue_diamond: Присутствуют готовые списки (json файлы)
 ____
 ### Main_data.py  
 Создаёт список мест по случайным координатам (всего 100)  
